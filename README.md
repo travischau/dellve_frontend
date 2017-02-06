@@ -39,7 +39,7 @@ From a command/shell terminal
 For example:
 
     $ cd Projects
-    $ git clone https://github.com/magescher/dellvedeep-frontend
+    $ git clone https://github.com/dellve/dellve_frontend.git
 
         ... git output here ...
 
